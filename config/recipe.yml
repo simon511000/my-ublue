@@ -34,8 +34,6 @@ modules:
       - containerd.io
       - docker-buildx-plugin
       - docker-compose-plugin
-
-      - google-noto-fonts
     remove:
       - firefox
       - firefox-langpacks
