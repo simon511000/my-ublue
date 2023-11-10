@@ -28,6 +28,7 @@ modules:
       - btrbk
       - libvirt
       - virt-manager
+      - gparted
 
       - docker-ce
       - docker-ce-cli
