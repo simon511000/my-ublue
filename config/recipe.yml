@@ -41,7 +41,6 @@ modules:
       - firefox
       - firefox-langpacks
       - toolbox
-      - podman-compose
       - podman
 
   - type: bling # configure what to pull in from ublue-os/bling
